@@ -41,13 +41,14 @@ body{
    
 }
 .pt{
-width:30%;
-height:200px;
-float:left;
-
+    width:200px;
+    margin-top:150px;    
 }
-.heading{
-    font-size:50px ;
+.pt,.rowheadings,.headings,.elements{
+    padding:20px;
     color:black;
-
+    font-family: sans-serif;
+}
+.headings{
+    background-color: lightcoral;
 }
